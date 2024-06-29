@@ -3,13 +3,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-77.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 230.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 807 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,17 +46,17 @@ Sunday                   1037 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-PHP                      34 mins             █████████████████░░░░░░░░   68.68 % 
-CSS                      8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-JavaScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+PHP                      41 mins             █████████████████████░░░░   84.32 % 
+YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Docker                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 🔥 Editors: 
-VS Code                  50 mins             █████████████████████████   100.00 % 
+VS Code                  49 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      50 mins             █████████████████████████   100.00 % 
+Mac                      49 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -74,7 +76,7 @@ Nunjucks                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wilbertcaba/wilbertcaba/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2024 18:43:49 UTC
+ Last Updated on 29/06/2024 18:42:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
