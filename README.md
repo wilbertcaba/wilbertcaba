@@ -1,17 +1,15 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-77.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 230.0 kB Used in GitHub's Storage 
- > 
-> 🏆 809 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,17 +44,17 @@ Sunday                   1053 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               6 hrs 31 mins       ███████████████░░░░░░░░░░   61.11 % 
-CSS                      3 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.71 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+TypeScript               6 hrs 31 mins       ███████████████░░░░░░░░░░   58.99 % 
+CSS                      3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.92 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+PHP                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 41 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 4 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -76,7 +74,7 @@ Nunjucks                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wilbertcaba/wilbertcaba/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2024 18:44:08 UTC
+ Last Updated on 09/07/2024 18:44:20 UTC
 <!--END_SECTION:waka-->
 
 <!--
