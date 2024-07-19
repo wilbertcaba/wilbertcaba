@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -10,8 +10,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 230.1 kB Used in GitHub's Storage 
- > 
-> 🏆 809 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,17 +44,16 @@ Sunday                   1053 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               3 hrs 53 mins       ████████████████░░░░░░░░░   63.47 % 
-JavaScript               1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
-CSS                      50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Image (svg)              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+TypeScript               5 hrs 10 mins       █████████████████░░░░░░░░   67.64 % 
+JavaScript               1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+CSS                      1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Image (svg)              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  7 hrs 38 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      7 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -76,7 +73,7 @@ Nunjucks                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wilbertcaba/wilbertcaba/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2024 18:44:53 UTC
+ Last Updated on 19/07/2024 18:45:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
