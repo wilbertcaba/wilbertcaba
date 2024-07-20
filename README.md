@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -44,16 +44,15 @@ Sunday                   1053 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               5 hrs 10 mins       █████████████████░░░░░░░░   67.64 % 
-JavaScript               1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-CSS                      1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Image (svg)              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+TypeScript               4 hrs 5 mins        ██████████████░░░░░░░░░░░   56.40 % 
+CSS                      2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.30 % 
+JavaScript               1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 14 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,7 +72,7 @@ Nunjucks                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wilbertcaba/wilbertcaba/main/assets/bar_graph.png)
 
 
- Last Updated on 19/07/2024 18:45:09 UTC
+ Last Updated on 20/07/2024 18:44:08 UTC
 <!--END_SECTION:waka-->
 
 <!--
