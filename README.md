@@ -11,6 +11,8 @@
 
 > 📦 230.1 kB Used in GitHub's Storage 
  > 
+> 🏆 827 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -44,13 +46,17 @@ Sunday                   1061 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 37 mins        ███████████████░░░░░░░░░░   60.75 % 
+PHP                      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+TypeScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -70,7 +76,7 @@ Nunjucks                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wilbertcaba/wilbertcaba/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2024 18:46:33 UTC
+ Last Updated on 13/08/2024 18:46:17 UTC
 <!--END_SECTION:waka-->
 
 <!--
