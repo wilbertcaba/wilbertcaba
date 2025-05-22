@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2039%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.4%20million%20lines%20of%20code-blue)
@@ -8,6 +10,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 241.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 133 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,16 +46,17 @@ Sunday                   1228 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               1 hr                ███████████████████████░░   91.26 % 
-PHP                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+JavaScript               1 hr 27 mins        ███████████████████████░░   92.08 % 
+PHP                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
+Mac                      1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -71,7 +76,7 @@ Nunjucks                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wilbertcaba/wilbertcaba/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2025 18:52:54 UTC
+ Last Updated on 22/05/2025 18:56:00 UTC
 <!--END_SECTION:waka-->
 
 <!--
