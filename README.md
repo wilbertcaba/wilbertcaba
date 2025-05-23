@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-354%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -10,8 +10,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 241.4 kB Used in GitHub's Storage 
- > 
-> 🏆 133 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,7 +74,7 @@ Nunjucks                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wilbertcaba/wilbertcaba/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2025 18:56:00 UTC
+ Last Updated on 23/05/2025 18:52:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
