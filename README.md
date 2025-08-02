@@ -9,7 +9,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 241.6 kB Used in GitHub's Storage 
+> 📦 241.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 158 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,15 +46,13 @@ Sunday                   1250 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-PHP                      27 mins             ██████████████░░░░░░░░░░░   57.33 % 
-SCSS                     20 mins             ███████████░░░░░░░░░░░░░░   42.50 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  47 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      47 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -72,7 +72,7 @@ Nunjucks                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wilbertcaba/wilbertcaba/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2025 18:57:10 UTC
+ Last Updated on 02/08/2025 18:57:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
