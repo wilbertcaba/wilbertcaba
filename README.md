@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75.3%20million%20lines%20of%20code-blue)
 
@@ -46,17 +46,17 @@ Sunday                   1272 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-PHP                      4 hrs 23 mins       ████████████░░░░░░░░░░░░░   48.05 % 
-JavaScript               2 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   30.01 % 
-CSS                      1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+JavaScript               4 hrs 47 mins       █████████████░░░░░░░░░░░░   53.86 % 
+PHP                      2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+CSS                      1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  8 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      8 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -76,7 +76,7 @@ Nunjucks                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wilbertcaba/wilbertcaba/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2025 18:56:02 UTC
+ Last Updated on 27/09/2025 18:54:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
