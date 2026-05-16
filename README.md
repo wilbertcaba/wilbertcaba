@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-550%20hrs%2010%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-110.30%20million%20lines%20of%20code-blue?style=flat)
@@ -17,6 +19,42 @@
  > 
 > 🔑 11 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3467 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+🌆 Daytime                9210 commits        ████████████░░░░░░░░░░░░░   47.25 % 
+🌃 Evening                3847 commits        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+🌙 Night                  2968 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   3068 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Tuesday                  3865 commits        █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Wednesday                4440 commits        ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+Thursday                 2706 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Friday                   3221 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Saturday                 1002 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Sunday                   1190 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -34,7 +72,7 @@ Nunjucks                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wilbertcaba/wilbertcaba/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2026 19:15:17 UTC
+ Last Updated on 16/05/2026 18:59:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
