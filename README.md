@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-562%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -48,40 +48,38 @@ Sunday                   1190 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 1 hr 35 mins        ███████████████████░░░░░░   74.15 % 
-PHP                      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Markdown                 46 mins             ██████████████████░░░░░░░   73.33 % 
+PHP                      14 mins             ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 
 🔥 Editors: 
-Claude Code              1 hr 19 mins        ███████████████░░░░░░░░░░   61.81 % 
-VS Code                  49 mins             ██████████░░░░░░░░░░░░░░░   38.19 % 
+VS Code                  37 mins             ███████████████░░░░░░░░░░   58.64 % 
+Claude Code              26 mins             ██████████░░░░░░░░░░░░░░░   41.36 % 
 
 💻 Operating System: 
-Mac                      2 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 53 mins (87.67%)
+⏱ AI Coding Time: 54 mins (86.01%)
 
-✍️ 1,686 lines written by AI, 1,732 lines written by hand (49.33% AI-written)
+✍️ 1,252 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,200,484 Input Tokens, 27,116 Output Tokens
+🔤 783,363 Input Tokens, 6,373 Output Tokens
 
-💵 $10.94 Estimated AI Cost This Week
+💵 $5.51 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 49 AI Prompts
+🧠 4 AI Sessions, 32 AI Prompts
 
-Opus                     1,688 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     1,422 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 49.33% of written lines came from AI
-📝 Concise Prompter — average 241 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 50.64% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 168 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -101,7 +99,7 @@ Nunjucks                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wilbertcaba/wilbertcaba/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 18:58:28 UTC
+ Last Updated on 02/08/2026 18:58:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
