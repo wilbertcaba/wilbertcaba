@@ -48,40 +48,40 @@ Sunday                   1190 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    3 hrs 31 mins       ███████████░░░░░░░░░░░░░░   44.23 % 
-Markdown                 1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-YAML                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-PHP                      1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-JSON                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Other                    3 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.20 % 
+YAML                     1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+PHP                      1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Markdown                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+JSON                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 59 mins       ██████████████████████░░░   87.85 % 
-VS Code                  58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Claude Code              6 hrs 49 mins       ██████████████████████░░░   87.58 % 
+VS Code                  58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
 
 💻 Operating System: 
-Mac                      7 hrs 57 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 54 mins (99.46%)
+⏱ AI Coding Time: 7 hrs 44 mins (99.45%)
 
-✍️ 1,393 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,306 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 110,683,261 Input Tokens, 283,970 Output Tokens
+🔤 108,761,348 Input Tokens, 269,463 Output Tokens
 
-💵 $565.23 Estimated AI Cost This Week
+💵 $555.26 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 46 AI Prompts
+🧠 6 AI Sessions, 46 AI Prompts
 
-Opus                     2,433 lines         █████████████████████████   100.00 % 
+Opus                     2,346 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
 📝 Concise Prompter — average 275 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -102,7 +102,7 @@ Nunjucks                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wilbertcaba/wilbertcaba/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 18:56:07 UTC
+ Last Updated on 10/08/2026 18:59:40 UTC
 <!--END_SECTION:waka-->
 
 <!--
