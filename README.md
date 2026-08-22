@@ -26,7 +26,7 @@
 ```text
 🌞 Morning                3024 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
 🌆 Daytime                8089 commits        ███████████░░░░░░░░░░░░░░   45.47 % 
-🌃 Evening                3723 commits        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+🌃 Evening                3724 commits        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
 🌙 Night                  2954 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -36,7 +36,7 @@ Monday                   2647 commits        ████░░░░░░░�
 Tuesday                  3378 commits        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
 Wednesday                4305 commits        ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
 Thursday                 2872 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Friday                   2290 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Friday                   2291 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
 Saturday                 1108 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
 Sunday                   1190 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
 ```
@@ -48,41 +48,41 @@ Sunday                   1190 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JSON                     2 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   35.68 % 
-PHP                      1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-Other                    1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-Markdown                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+JSON                     1 hr 31 mins        ████████░░░░░░░░░░░░░░░░░   32.69 % 
+Other                    1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+PHP                      46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Bash                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Git Config               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 54 mins       █████████████████░░░░░░░░   66.23 % 
-VS Code                  2 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   33.77 % 
+Claude Code              2 hrs 59 mins       ████████████████░░░░░░░░░   64.27 % 
+VS Code                  1 hr 39 mins        █████████░░░░░░░░░░░░░░░░   35.73 % 
 
 💻 Operating System: 
-Mac                      7 hrs 24 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 58 mins (80.68%)
+⏱ AI Coding Time: 3 hrs 51 mins (83.13%)
 
-✍️ 1,050 lines written by AI, 9 lines written by hand (99.15% AI-written)
+✍️ 599 lines written by AI, 4 lines written by hand (99.34% AI-written)
 
-🔤 1,294,299 Input Tokens, 136,013 Output Tokens
+🔤 922,287 Input Tokens, 81,765 Output Tokens
 
-💵 $53.10 Estimated AI Cost This Week
+💵 $46.82 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 67 AI Prompts
+🧠 9 AI Sessions, 55 AI Prompts
 
-Opus                     1,190 lines         █████████████████████████   100.00 % 
+Opus                     716 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.15% of written lines came from AI
-📄 Detailed Prompter — average 663 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 6.2% of changed lines were hand-edited
+🤖 AI-Driven — 99.34% of written lines came from AI
+📝 Concise Prompter — average 493 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -102,7 +102,7 @@ Nunjucks                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wilbertcaba/wilbertcaba/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 18:57:23 UTC
+ Last Updated on 22/08/2026 18:53:17 UTC
 <!--END_SECTION:waka-->
 
 <!--
