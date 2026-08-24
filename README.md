@@ -7,7 +7,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-164.90%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-175.04%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -24,21 +24,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3031 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-🌆 Daytime                8131 commits        ███████████░░░░░░░░░░░░░░   45.49 % 
-🌃 Evening                3752 commits        █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-🌙 Night                  2959 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+🌞 Morning                3035 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+🌆 Daytime                8145 commits        ███████████░░░░░░░░░░░░░░   45.47 % 
+🌃 Evening                3768 commits        █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+🌙 Night                  2963 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   2662 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Tuesday                  3390 commits        █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-Wednesday                4319 commits        ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-Thursday                 2894 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Friday                   2304 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Saturday                 1114 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Sunday                   1190 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Monday                   2672 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Tuesday                  3394 commits        █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Wednesday                4323 commits        ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+Thursday                 2894 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Friday                   2307 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Saturday                 1131 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Sunday                   1190 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 ```
 
 
@@ -48,39 +48,38 @@ Sunday                   1190 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    44 mins             ███████████████████░░░░░░   76.46 % 
-PHP                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Other                    44 mins             ███████████████████░░░░░░   77.88 % 
+PHP                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
 
 🔥 Editors: 
-Claude Code              32 mins             ███████████████████░░░░░░   76.99 % 
-VS Code                  9 mins              ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+Claude Code              32 mins             ████████████████████░░░░░   79.00 % 
+VS Code                  8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
 
 💻 Operating System: 
-Mac                      41 mins             █████████████████████████   100.00 % 
+Mac                      40 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (76.37%)
+⏱ AI Coding Time: 32 mins (77.92%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 242,953 Input Tokens, 14,066 Output Tokens
+🔤 204,594 Input Tokens, 13,522 Output Tokens
 
-💵 $39.40 Estimated AI Cost This Week
+💵 $39.23 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 18 AI Prompts
+🧠 3 AI Sessions, 8 AI Prompts
 
 Opus                     229 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 148 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 197 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -101,7 +100,7 @@ Nunjucks                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wilbertcaba/wilbertcaba/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 18:53:03 UTC
+ Last Updated on 24/08/2026 18:57:54 UTC
 <!--END_SECTION:waka-->
 
 <!--
