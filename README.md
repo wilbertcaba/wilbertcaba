@@ -7,11 +7,11 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-175.14%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-173.77%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 244.5 kB Used in GitHub's Storage 
+> 📦 244.6 kB Used in GitHub's Storage 
  > 
 > 🏆 418 Contributions in the Year 2026
  > 
@@ -24,21 +24,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3051 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-🌆 Daytime                8210 commits        ███████████░░░░░░░░░░░░░░   45.57 % 
-🌃 Evening                3791 commits        █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-🌙 Night                  2965 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+🌞 Morning                2943 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+🌆 Daytime                7507 commits        ███████████░░░░░░░░░░░░░░   44.17 % 
+🌃 Evening                3591 commits        █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+🌙 Night                  2954 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   2684 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Tuesday                  3406 commits        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Wednesday                4354 commits        ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
-Thursday                 2928 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Friday                   2324 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Saturday                 1131 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Sunday                   1190 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Monday                   2528 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Tuesday                  3284 commits        █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Wednesday                4118 commits        ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Thursday                 2590 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Friday                   2154 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Saturday                 1131 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Sunday                   1190 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 ```
 
 
@@ -48,36 +48,36 @@ Sunday                   1190 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    44 mins             ███████████████████████░░   93.93 % 
-PHP                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Other                    1 hr 12 mins        ████████████████████████░   96.16 % 
+PHP                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 🔥 Editors: 
-Claude Code              29 mins             ███████████████████████░░   93.96 % 
-VS Code                  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Claude Code              57 mins             ████████████████████████░   96.80 % 
+VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 💻 Operating System: 
-Mac                      31 mins             █████████████████████████   100.00 % 
+Mac                      58 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (91.8%)
+⏱ AI Coding Time: 57 mins (95.6%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 208,108 Input Tokens, 12,696 Output Tokens
+🔤 365,659 Input Tokens, 21,832 Output Tokens
 
-💵 $39.11 Estimated AI Cost This Week
+💵 $40.81 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 7 AI Prompts
+🧠 4 AI Sessions, 14 AI Prompts
 
 Opus                     229 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 211 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 164 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -98,7 +98,7 @@ Nunjucks                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wilbertcaba/wilbertcaba/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2026 22:00:47 UTC
+ Last Updated on 28/08/2026 21:56:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
