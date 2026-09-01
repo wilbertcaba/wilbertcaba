@@ -48,12 +48,12 @@ Sunday                   1190 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    27 mins             █████████████████░░░░░░░░   67.86 % 
-Git Config               13 mins             ████████░░░░░░░░░░░░░░░░░   32.14 % 
+Other                    28 mins             █████████████████░░░░░░░░   68.34 % 
+Git Config               13 mins             ████████░░░░░░░░░░░░░░░░░   31.66 % 
 
 🔥 Editors: 
-Claude Code              40 mins             █████████████████████████   98.40 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Claude Code              40 mins             █████████████████████████   98.22 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 💻 Operating System: 
 Mac                      41 mins             █████████████████████████   100.00 % 
@@ -66,17 +66,17 @@ Mac                      41 mins             ███████████�
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 236,643 Input Tokens, 10,482 Output Tokens
+🔤 257,140 Input Tokens, 12,164 Output Tokens
 
-💵 $2.18 Estimated AI Cost This Week
+💵 $2.53 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 11 AI Prompts
+🧠 3 AI Sessions, 12 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 123 characters per prompt
+📚 Verbose Prompter — average 4,292 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -98,7 +98,7 @@ Nunjucks                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wilbertcaba/wilbertcaba/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 18:50:38 UTC
+ Last Updated on 01/09/2026 18:51:36 UTC
 <!--END_SECTION:waka-->
 
 <!--
