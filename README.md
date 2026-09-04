@@ -48,36 +48,36 @@ Sunday                   1190 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    28 mins             █████████████████░░░░░░░░   68.34 % 
-Git Config               13 mins             ████████░░░░░░░░░░░░░░░░░   31.66 % 
+Git Config               13 mins             ████████████████████████░   94.50 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 
 🔥 Editors: 
-Claude Code              40 mins             █████████████████████████   98.22 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Claude Code              13 mins             ████████████████████████░   94.68 % 
+VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 
 💻 Operating System: 
-Mac                      41 mins             █████████████████████████   100.00 % 
+Mac                      13 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 mins (100.0%)
+⏱ AI Coding Time: 13 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 257,140 Input Tokens, 12,164 Output Tokens
+🔤 99,589 Input Tokens, 3,028 Output Tokens
 
-💵 $2.53 Estimated AI Cost This Week
+💵 $2.07 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 12 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 4,292 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 10,138 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -98,7 +98,7 @@ Nunjucks                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wilbertcaba/wilbertcaba/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 18:52:44 UTC
+ Last Updated on 04/09/2026 18:48:40 UTC
 <!--END_SECTION:waka-->
 
 <!--
