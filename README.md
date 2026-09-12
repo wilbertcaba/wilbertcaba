@@ -7,13 +7,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-230.77%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-238.75%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 272.6 kB Used in GitHub's Storage 
  > 
-> 🏆 487 Contributions in the Year 2026
+> 🏆 506 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,21 +24,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2995 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-🌆 Daytime                7767 commits        ███████████░░░░░░░░░░░░░░   43.93 % 
-🌃 Evening                3873 commits        █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-🌙 Night                  3044 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+🌞 Morning                3008 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+🌆 Daytime                7872 commits        ███████████░░░░░░░░░░░░░░   44.06 % 
+🌃 Evening                3928 commits        █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+🌙 Night                  3060 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   2629 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Tuesday                  3361 commits        █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Wednesday                4195 commits        ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-Thursday                 2678 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Friday                   2340 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Saturday                 1286 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Sunday                   1190 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Monday                   2651 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Tuesday                  3377 commits        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Wednesday                4217 commits        ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+Thursday                 2702 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Friday                   2381 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Saturday                 1350 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Sunday                   1190 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 ```
 
 
@@ -48,45 +48,44 @@ Sunday                   1190 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               4 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   34.51 % 
-Other                    3 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-JSON                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Markdown                 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-JavaScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+TypeScript               4 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   33.73 % 
+Other                    4 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   31.19 % 
+Markdown                 1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+JSON                     1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-Codex Vscode             7 hrs 16 mins       █████████████░░░░░░░░░░░░   50.57 % 
-VS Code                  4 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   31.95 % 
-Claude Code              2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Codex Vscode             7 hrs 16 mins       ████████████░░░░░░░░░░░░░   49.44 % 
+VS Code                  5 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.24 % 
+Claude Code              2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
 
 💻 Operating System: 
-Mac                      14 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 20 mins (92.9%)
+⏱ AI Coding Time: 13 hrs 10 mins (89.62%)
 
-✍️ 3,804 lines written by AI, 37 lines written by hand (99.04% AI-written)
+✍️ 3,284 lines written by AI, 37 lines written by hand (98.89% AI-written)
 
-🔤 5,405,585 Input Tokens, 422,128 Output Tokens
+🔤 4,980,211 Input Tokens, 401,719 Output Tokens
 
-💵 $97.28 Estimated AI Cost This Week
+💵 $88.15 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 201 AI Prompts
+🧠 32 AI Sessions, 196 AI Prompts
 
-GPT                      2,198 lines         ██████████████░░░░░░░░░░░   54.26 % 
-Fable                    1,853 lines         ███████████░░░░░░░░░░░░░░   45.74 % 
+GPT                      2,198 lines         ████████████████░░░░░░░░░   62.37 % 
+Opus                     895 lines           ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
+Fable                    431 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.04% of written lines came from AI
-📚 Verbose Prompter — average 25,986 characters per prompt
+🤖 AI-Driven — 98.89% of written lines came from AI
+📚 Verbose Prompter — average 25,342 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.67% of changed lines were hand-edited
+🚀 High AI Trust — 1.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +105,7 @@ Nunjucks                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wilbertcaba/wilbertcaba/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 18:53:34 UTC
+ Last Updated on 12/09/2026 18:46:40 UTC
 <!--END_SECTION:waka-->
 
 <!--
