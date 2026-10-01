@@ -48,42 +48,45 @@ Sunday                   1341 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               13 hrs 4 mins       ████████████████░░░░░░░░░   63.97 % 
-Bash                     4 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-Other                    1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Git Config               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-CSS                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+TypeScript               11 hrs 50 mins      ██████████████████░░░░░░░   71.99 % 
+Other                    1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Bash                     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Git Config               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+CSS                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 14 mins      █████████████████░░░░░░░░   69.72 % 
-Codex Vscode             6 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   30.28 % 
+VS Code                  12 hrs 3 mins       ██████████████████░░░░░░░   73.23 % 
+Codex Vscode             4 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+Claude Code              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Mac                      20 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 41 mins (67.02%)
+⏱ AI Coding Time: 10 hrs 37 mins (64.53%)
 
-✍️ 462 lines written by AI, 203 lines written by hand (69.47% AI-written)
+✍️ 460 lines written by AI, 184 lines written by hand (71.43% AI-written)
 
-🔤 5,428,402 Input Tokens, 328,541 Output Tokens
+🔤 4,984,344 Input Tokens, 298,257 Output Tokens
 
-💵 $110.42 Estimated AI Cost This Week
+💵 $106.60 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 318 AI Prompts
+🧠 33 AI Sessions, 280 AI Prompts
 
-GPT                      479 lines           ████████████████████████░   96.77 % 
-Codex-Vscode             14 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Github-Copilot           2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+GPT                      411 lines           █████████████████████░░░░   83.37 % 
+Fable                    66 lines            ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Codex-Vscode             14 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Github-Copilot           2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 69.47% of written lines came from AI
-📚 Verbose Prompter — average 12,973 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 35.63% of changed lines were hand-edited
+🤖 AI-Driven — 71.43% of written lines came from AI
+📚 Verbose Prompter — average 13,970 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 33.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -103,7 +106,7 @@ Nunjucks                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wilbertcaba/wilbertcaba/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 18:59:27 UTC
+ Last Updated on 01/10/2026 18:59:23 UTC
 <!--END_SECTION:waka-->
 
 <!--
