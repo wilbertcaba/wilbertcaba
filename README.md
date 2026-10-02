@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-622%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-622%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-113%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-113%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -48,45 +48,45 @@ Sunday                   1341 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               11 hrs 50 mins      ██████████████████░░░░░░░   71.99 % 
-Other                    1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Bash                     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Git Config               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-CSS                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+TypeScript               6 hrs 2 mins        ██████████████████░░░░░░░   70.11 % 
+Bash                     1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Git Config               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 3 mins       ██████████████████░░░░░░░   73.23 % 
-Codex Vscode             4 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.25 % 
-Claude Code              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+VS Code                  6 hrs 8 mins        ██████████████████░░░░░░░   71.27 % 
+Codex Vscode             2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   27.74 % 
+Claude Code              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 💻 Operating System: 
-Mac                      16 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 37 mins (64.53%)
+⏱ AI Coding Time: 5 hrs 9 mins (59.83%)
 
-✍️ 460 lines written by AI, 184 lines written by hand (71.43% AI-written)
+✍️ 348 lines written by AI, 45 lines written by hand (88.55% AI-written)
 
-🔤 4,984,344 Input Tokens, 298,257 Output Tokens
+🔤 2,591,358 Input Tokens, 210,775 Output Tokens
 
-💵 $106.60 Estimated AI Cost This Week
+💵 $39.84 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 280 AI Prompts
+🧠 16 AI Sessions, 174 AI Prompts
 
-GPT                      411 lines           █████████████████████░░░░   83.37 % 
-Fable                    66 lines            ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Codex-Vscode             14 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-Github-Copilot           2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+GPT                      292 lines           ████████████████████░░░░░   78.49 % 
+Fable                    66 lines            ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Codex-Vscode             14 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 71.43% of written lines came from AI
-📚 Verbose Prompter — average 13,970 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 33.97% of changed lines were hand-edited
+🤖 AI-Driven — 88.55% of written lines came from AI
+📚 Verbose Prompter — average 13,679 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 16.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +106,7 @@ Nunjucks                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wilbertcaba/wilbertcaba/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 18:59:23 UTC
+ Last Updated on 02/10/2026 18:57:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
