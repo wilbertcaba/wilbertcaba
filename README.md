@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-672%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-673%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-174%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -11,9 +11,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 350.9 kB Used in GitHub's Storage 
+> 📦 351.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,180 Contributions in the Year 2026
+> 🏆 1,186 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,9 +25,9 @@
 
 ```text
 🌞 Morning                3679 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-🌆 Daytime                12183 commits       █████████░░░░░░░░░░░░░░░░   36.83 % 
-🌃 Evening                10175 commits       ████████░░░░░░░░░░░░░░░░░   30.76 % 
-🌙 Night                  7043 commits        █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+🌆 Daytime                12183 commits       █████████░░░░░░░░░░░░░░░░   36.82 % 
+🌃 Evening                10181 commits       ████████░░░░░░░░░░░░░░░░░   30.77 % 
+🌙 Night                  7044 commits        █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
@@ -35,10 +35,10 @@
 Monday                   5908 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
 Tuesday                  6518 commits        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
 Wednesday                5710 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-Thursday                 4819 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Thursday                 4819 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
 Friday                   4350 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Saturday                 3208 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Sunday                   2567 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Saturday                 3214 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Sunday                   2568 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 ```
 
 
@@ -48,46 +48,46 @@ Sunday                   2567 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               22 hrs 2 mins       ███████████████████░░░░░░   77.83 % 
-CSS                      1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-JavaScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Text                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+TypeScript               17 hrs 50 mins      ███████████████████░░░░░░   74.14 % 
+JavaScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+CSS                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Text                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 🔥 Editors: 
-Cursor                   25 hrs 3 mins       ██████████████████████░░░   88.46 % 
-Agent                    1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-VS Code                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Codex Vscode             37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-Copilot CLI              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Cursor                   22 hrs 48 mins      ███████████████████████░░   93.57 % 
+VS Code                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Codex Vscode             37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Copilot CLI              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Mac                      28 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 59 mins (70.55%)
+⏱ AI Coding Time: 18 hrs 12 mins (75.65%)
 
-✍️ 3,307 lines written by AI, 277 lines written by hand (92.27% AI-written)
+✍️ 3,603 lines written by AI, 212 lines written by hand (94.44% AI-written)
 
 🔤 193,980 Input Tokens, 27,499 Output Tokens
 
 💵 $27.91 Estimated AI Cost This Week
 
-🧠 61 AI Sessions, 124 AI Prompts
+🧠 65 AI Sessions, 134 AI Prompts
 
-Grok                     3,077 lines         █████████████████████░░░░   83.25 % 
-GPT                      374 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Opus                     239 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Cursor                   6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Grok                     3,260 lines         █████████████████████░░░░   84.04 % 
+GPT                      374 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Opus                     239 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Cursor                   6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.27% of written lines came from AI
-📄 Detailed Prompter — average 534 characters per prompt
+🤖 AI-Driven — 94.44% of written lines came from AI
+📄 Detailed Prompter — average 578 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 16.61% of changed lines were hand-edited
+🚀 High AI Trust — 9.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,7 +107,7 @@ Nunjucks                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wilbertcaba/wilbertcaba/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2026 18:55:07 UTC
+ Last Updated on 25/10/2026 18:55:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
