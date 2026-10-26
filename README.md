@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-673%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-677%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-174%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-176%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -48,46 +48,46 @@ Sunday                   2568 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               17 hrs 50 mins      ███████████████████░░░░░░   74.14 % 
-JavaScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-CSS                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-Text                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+TypeScript               12 hrs 50 mins      █████████████████░░░░░░░░   69.60 % 
+JavaScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+CSS                      52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Text                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 🔥 Editors: 
-Cursor                   22 hrs 48 mins      ███████████████████████░░   93.57 % 
-VS Code                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-Codex Vscode             37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Copilot CLI              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Cursor                   17 hrs 11 mins      ███████████████████████░░   91.65 % 
+VS Code                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Codex Vscode             37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Copilot CLI              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Mac                      24 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      18 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 12 mins (75.65%)
+⏱ AI Coding Time: 14 hrs 1 min (76.0%)
 
-✍️ 3,603 lines written by AI, 212 lines written by hand (94.44% AI-written)
+✍️ 2,186 lines written by AI, 208 lines written by hand (91.31% AI-written)
 
-🔤 193,980 Input Tokens, 27,499 Output Tokens
+🔤 210,130 Input Tokens, 27,801 Output Tokens
 
-💵 $27.91 Estimated AI Cost This Week
+💵 $27.96 Estimated AI Cost This Week
 
-🧠 65 AI Sessions, 134 AI Prompts
+🧠 66 AI Sessions, 120 AI Prompts
 
-Grok                     3,260 lines         █████████████████████░░░░   84.04 % 
-GPT                      374 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Opus                     239 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Cursor                   6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Grok                     1,705 lines         ██████████████████░░░░░░░   73.36 % 
+GPT                      374 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Opus                     239 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Cursor                   6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.44% of written lines came from AI
-📄 Detailed Prompter — average 578 characters per prompt
+🤖 AI-Driven — 91.31% of written lines came from AI
+📝 Concise Prompter — average 423 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 9.97% of changed lines were hand-edited
+🚀 High AI Trust — 11.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,7 +107,7 @@ Nunjucks                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wilbertcaba/wilbertcaba/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 18:55:18 UTC
+ Last Updated on 26/10/2026 19:07:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
