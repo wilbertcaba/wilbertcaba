@@ -48,41 +48,41 @@ Sunday                   2568 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               3 hrs 38 mins       █████████████████░░░░░░░░   67.91 % 
-TSConfig                 34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-JavaScript               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+TypeScript               49 mins             ██████████████░░░░░░░░░░░   55.71 % 
+TSConfig                 29 mins             ████████░░░░░░░░░░░░░░░░░   33.92 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 21 mins       █████████████████████████   100.00 % 
+Cursor                   1 hr 28 mins        █████████████████████████   100.00 % 
 Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 28 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 12 mins (60.03%)
+⏱ AI Coding Time: 33 mins (38.24%)
 
-✍️ 358 lines written by AI, 114 lines written by hand (75.85% AI-written)
+✍️ 0 lines written by AI, 42 lines written by hand (0.0% AI-written)
 
 🔤 16,150 Input Tokens, 302 Output Tokens
 
 💵 $0.05 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 31 AI Prompts
+🧠 5 AI Sessions, 10 AI Prompts
 
-Grok                     266 lines           █████████████████████████   100.00 % 
+Grok                     52 lines            █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 75.85% of written lines came from AI
-📝 Concise Prompter — average 495 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 237 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 25.78% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -102,7 +102,7 @@ Nunjucks                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wilbertcaba/wilbertcaba/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2026 18:48:28 UTC
+ Last Updated on 01/11/2026 18:51:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
